@@ -1,2 +1,2 @@
 # Alx pre-course
-My first readme
+My first readme  is amazing
